@@ -169,7 +169,7 @@ def update_book(id):
     })
 
 
-@views.route("/import")
+@views.route("/import", methods=['POST'])
 def import_books():
     body_data = request.json
     author = body_data['author']
