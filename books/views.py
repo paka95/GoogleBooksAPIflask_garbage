@@ -12,6 +12,12 @@ api_spec = {
     "info" : {"version" : "2022.05.16"}
 }
 
+
+@views.route("/")
+def index():
+    return "ok"
+
+
 @views.route("/books")
 def books():
     parameters = request.args
