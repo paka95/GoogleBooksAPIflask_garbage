@@ -6,7 +6,13 @@ due to problems with deploying application, I'm uploading videos of working API
 ![22](https://user-images.githubusercontent.com/94203043/172877037-2b4548d4-eb8f-4692-987c-2d6229c0f6b6.png)
 
 Other issues that I had:
-could not run the import function in a loop, to retrieve every match of given author name, could not work with pagination, received error "JSON object must be str, bytes or bytearray, not NoneType", unfortunately I could not find the reason behind that
+I could not run the import function in a loop, to retrieve every match of a given author name, I could not work with pagination, received an error "JSON object must be str, bytes or bytearray, not NoneType", unfortunately I could not find the reason behind that
+
+# Running the project:
+```
+$ pip install -r requirements.txt
+$ python app.py
+```
 
 # Api spec
 
