@@ -42,3 +42,6 @@ https://user-images.githubusercontent.com/94203043/172877592-bd4b256e-3f29-41de-
 
 https://user-images.githubusercontent.com/94203043/172877641-725351a1-2765-4833-98bf-d1c7d3b1d536.mp4
 
+----------------------------------------------------------------------------------------------------------------------
+
+wow, this code is such a garbage after looking back at it after 9 months
